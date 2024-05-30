@@ -26,5 +26,8 @@ img:hover{
     transform:scale(1.5);
   }
   #foto{
-    
+    float: left;
+  }
+  #vido{
+    float: right;
   }

@@ -30,4 +30,6 @@ img:hover{
   }
   #vido{
     float: right;
+    border: 2px black solid;
+    height: 2000px;
   }
